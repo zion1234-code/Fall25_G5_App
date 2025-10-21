@@ -30,3 +30,47 @@ Group 5:  Trevon Lacy,  Zion Pease,  Stevie Scott
            
                As a Tester I am responsible for making sure that the products meet the required standards before being released to the public for others to use. I'm responsible for performing text execution, defining a testing approach, track bugs and work to solve issues. Also as a Quality Lead I am supposed to mentor and help assign tasks to the team. Also enforce these quality standards and also to act as a bridge between developers and other project managers to ensure a quality product.
            
+
+## Project 2
+
+   Please complete your project 2, especially the PBI and prototypes, so that you can continue project 3. For sample, please visit [Group 1](https://github.com/CSCI4221ASU/Fall25_G5).
+   
+   a. Trevon Lacy
+
+      Minutes:
+
+         No repository provided
+
+      PBI
+         No repository provided
+
+      Prototype
+         No repository provided
+
+   b. Zion Pease
+
+      Minutes:
+         No repository provided
+      PBI
+
+         No repository provided
+
+      Prototype
+
+         No repository provided
+
+         
+   C. Stevie Scott
+
+      Minutes:
+      
+         No submission
+      
+      PBI
+
+         No submission
+
+
+      Prototype
+
+         No submission
