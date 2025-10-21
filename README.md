@@ -33,7 +33,7 @@ Group 5:  Trevon Lacy,  Zion Pease,  Stevie Scott
 
 ## Project 2
 
-   Please complete your project 2, especially the PBI and prototypes, so that you can continue project 3. For sample, please visit [Group 1](https://github.com/CSCI4221ASU/Fall25_G5).
+   Please complete your project 2, especially the PBI and prototypes, so that you can continue project 3. For sample, please visit [Group 1](https://github.com/CSCI4221ASU/Fall25_G1).
    
    a. Trevon Lacy
 
