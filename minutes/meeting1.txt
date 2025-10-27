@@ -1,0 +1,11 @@
+Meeting Date: 10/23/2025
+Attendees: Zion, Trey, Stevie
+
+Topics Discussed:
+- Project setup and Expo app creation
+- Folder structure for minutes and PBI table
+- Assigning PBIs
+
+Action Items:
+- Each member updates their assigned PBI
+- Zion sets up initial Expo app with navigation

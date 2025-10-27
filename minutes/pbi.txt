@@ -1,0 +1,10 @@
+My PBI for Project 3:
+- Implement the Minutes screen that displays meeting notes in the app.
+- Update navigation to allow viewing Minutes from Home Screen.
+
+Updated PBI Table:
+| ID | PBI Description                | Assigned To | Status       |
+|----|-------------------------------|------------|-------------|
+| 1  | Create and style Home Screen   | Trey       | In progress |
+| 2  | Add navigation between pages   | Stevie     | In progress |
+| 3  | Implement Minutes Screen       | Zion       | Completed   |
