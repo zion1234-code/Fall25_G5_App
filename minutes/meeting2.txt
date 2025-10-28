@@ -1,0 +1,13 @@
+Meeting Date: 10/28/2025
+Attendees: Zion, Trey, Stevie
+Topics Discussed:
+- Reviewed Project 3 instructions and requirements
+- Confirmed GitHub repository setup for all team members
+- Assigned PBIs to each member
+- Planned next steps for React Native app development (home screen and prototype integration)
+
+Action Items:
+- Zion: Continue setting up Expo app navigation and implement initial screens
+- Trey: Begin implementing login screen functionality
+- Stevie: Begin creating settings/profile page
+- Team: Coordinate progress and update PBI table regularly
