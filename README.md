@@ -1,76 +1,42 @@
 # Fall25_G5
-Group 5:  Trevon Lacy,  Zion Pease,  Stevie Scott
+# Project 3 – React Native Expo App (Fall 2025)
 
-## 1. Project 1
+## Purpose
+This project uses AI (such as ChatGPT 4.0) to generate code for a mobile app prototype created in Project 2.  
+The app runs on both iOS and Android using React Native with Expo.
 
-   a.  Trevon Lacy
+## Team: Group 5
+- Zion Pease  
+- Trey  
+- Stevie  
 
-           Link: https://github.com/zion1234-code/CSCI4221/tree/branch1
-           No content in readme
-           Issue:
+## Repository Setup
+- Cloned new group repository: `https://github.com/zion1234-code/Fall25_G5_App`
+- Created `minutes/` folder for meeting notes  
+- Created `mobile-app/` folder for Expo project  
 
-              gathering input data for coding tasks, such as collecting user requirements, test cases, or runtime metrics. This role helps ensure developers have accurate and structured data to write, test, and debug code effectively, improving overall software performance and reliability.
+## Project Requirements
+- AI-generated React Native code based on Project 2 prototype  
+- App includes at least two clickable actions on the home screen  
+- Folder structure includes default Expo files and configurations  
+- Regular group meetings with minutes logged  
 
+## Meeting Notes
+- Located in `/minutes`  
+- Each file documents date, attendees, topics, and action items  
 
-         
+## PBI Table
+- Located in `/minutes/pbi.txt`  
+- Updated with each member’s assigned items and progress  
 
-   b.  Zion Pease
+## Progress Summary
+- ✅ Repo cloned and set up  
+- ✅ Initial Expo app created  
+- ✅ Minutes and PBI files added  
+- 🔄 Next: Each member updates PBI and commits progress  
 
-           Link: https://github.com/zion1234-code/CSCI4221/tree/branch1
-           No Content in readme
-           Issue:
-
-              Hello, My name is Zion Pease and I am the Documentation lead for this group. I will also assist with code as well or wherever im needed
-
-   c. Stevie Scott
-
-           Link: https://github.com/zion1234-code/CSCI4221/issues/3#issue-3427180808
-           No content in readme
-           Issue:
-           
-               As a Tester I am responsible for making sure that the products meet the required standards before being released to the public for others to use. I'm responsible for performing text execution, defining a testing approach, track bugs and work to solve issues. Also as a Quality Lead I am supposed to mentor and help assign tasks to the team. Also enforce these quality standards and also to act as a bridge between developers and other project managers to ensure a quality product.
-           
-
-## Project 2
-
-   Please complete your project 2, especially the PBI and prototypes, so that you can continue project 3. For sample, please visit [Group 1](https://github.com/CSCI4221ASU/Fall25_G1).
-   
-   a. Trevon Lacy
-
-      Minutes:
-
-         No repository provided
-
-      PBI
-         No repository provided
-
-      Prototype
-         No repository provided
-
-   b. Zion Pease
-
-      Minutes:
-         No repository provided
-      PBI
-
-         No repository provided
-
-      Prototype
-
-         No repository provided
-
-         
-   C. Stevie Scott
-
-      Minutes:
-      
-         No submission
-      
-      PBI
-
-         No submission
-
-
-      Prototype
-
-         No submission
+## How to Run the App
+1. Navigate to `mobile-app/`  
+2. Run `npm install`  
+3. Run `npx expo start`  
+4. Scan QR code with Expo Go on your phone to test
